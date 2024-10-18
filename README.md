@@ -7,7 +7,6 @@ Breadth-First Search (BFS): A brute-force search that guarantees the shortest pa
 The program reads the puzzle input from a text file, processes the board state, and prints the moves required to solve the puzzle 
 along with the final board configuration and the total number of moves.
 
------------------------------------------------------------------HOW TO RUN CODE-----------------------------------------------------------------
 
 Usage:
 To run the program, use one of the following commands:
